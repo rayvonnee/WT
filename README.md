@@ -50,6 +50,9 @@ Write Short Note on
     • Electromagnetic Spectrum
     • Frequency Reuse
     • IEEE 802.11 Standards
+    
+    
+    
 
 Compare 
     • WiMax and LTE/2GPP
